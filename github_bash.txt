@@ -1,4 +1,0 @@
-git init -> installiztion of git
-git add -> adding files and its move to git staging area
-git commit -> save changes and give name for that changes
-git push -> push files into github rep
